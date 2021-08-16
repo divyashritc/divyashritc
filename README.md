@@ -2,7 +2,7 @@
 
 I am Divyashri
 
-I am a Associate software engineer at excelsoft technology
+Associate software engineer at excelsoft technology
 
 <!--
 **divyashritc/divyashritc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
